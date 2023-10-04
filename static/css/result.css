@@ -1,0 +1,28 @@
+img {
+    float: right;
+    width: 100%;
+}
+
+.navbar-text {
+    color: #2d4373;
+    cursor: pointer;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #2d4373;
+}
+
+.title-homepage {
+    margin-top: 1em;
+    color: black;
+    font-weight: bolder;
+}
+
+.btn-primary {
+    background-color: #2d4373;
+}
+
+.result-row {
+    margin: 5em 3em 0 3em ;
+}
